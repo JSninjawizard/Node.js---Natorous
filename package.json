@@ -1,0 +1,15 @@
+{
+  "name": "naturous",
+  "version": "1.0.0",
+  "description": "Learning to code, express framework and mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Sergeyevitch Pushking",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
